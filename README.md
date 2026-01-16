@@ -45,7 +45,7 @@ How can sales data be analyzed to evaluate performance and support business deci
 - Dashboard image for quick preview
 
 ## Dashboard Preview
-![Dashboard]
+![Dashboard Preview](sales_dashboard.png)
 
 ## Author
 Leonardo Guerrero
